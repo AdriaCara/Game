@@ -24,7 +24,5 @@ public class Character {
 	//private runSound;
 	
 	//private hurtSound;
-	
-	//Experiment.
 
 }
