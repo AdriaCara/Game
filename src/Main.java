@@ -10,7 +10,8 @@ public class Main {
 	
 	private void game() {
 		
-		
+		Game game = new Game();
+		game.Start();
 		
 	}
 
